@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @intzeph
+- 👋 Hi, I’m Zeph
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c++ html css and Javascript
+- 📫 How to reach me rtzzeph@gmail.com
 
 <!---
 intzeph/intzeph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
