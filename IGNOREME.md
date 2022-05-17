@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeph
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ html css and Javascript
+- 🌱 I’m currently learning  html css and Javascript
 - 📫 How to reach me rtzzeph@gmail.com
 
 <!---
